@@ -1,5 +1,27 @@
 p
 {
-    text-align: left;
-
+    text-align: right;
+    border: 1px solid red;  
+    margin-bottom: -10px;
+    margin-right: 450px;
+    margin-left: 390px;
+}
+fieldset
+{
+    text-align: right;
+    margin-right: 450px;
+    border-color: white;
+}
+#botones
+{
+    position: absolute;
+    top: 30%;
+    left: 44%;
+}
+#operaciones
+{
+    position: absolute;
+    top: 20%;
+    left: 52%;
+ 
 }
